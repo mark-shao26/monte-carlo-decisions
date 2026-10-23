@@ -1,0 +1,8 @@
+{
+  "years": 5,
+  "trials": 5000,
+  "initial_investment": { "dist": "triangular", "min": 700000, "mode": 800000, "max": 950000 },
+  "discount_rate": { "dist": "triangular", "min": 0.08, "mode": 0.10, "max": 0.14 },
+  "annual_cash_flow": { "dist": "normal", "mu": 300000, "sigma": 60000 },
+  "cash_flow_growth": { "dist": "normal", "mu": 0.05, "sigma": 0.03 }
+}
