@@ -1,0 +1,8 @@
+{
+  "years": 3,
+  "trials": 5000,
+  "initial_investment": 200000,
+  "discount_rate": 0.08,
+  "annual_cash_flow": { "dist": "uniform", "min": 60000, "max": 120000 },
+  "cash_flow_growth": 0.0
+}
