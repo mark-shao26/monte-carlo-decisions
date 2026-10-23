@@ -23,7 +23,7 @@
 只需要 Python 3.8+，**不需要安装任何依赖**。
 
 ```bash
-git clone https://github.com/<your-name>/monte-carlo-decisions.git
+git clone https://github.com/<mark-shao26>/monte-carlo-decisions.git
 cd monte-carlo-decisions
 
 # 用示例配置跑一次
